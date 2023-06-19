@@ -1,0 +1,29 @@
+* {
+   margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+form{
+    background-color: gray;
+    display: inline-block;
+    padding: 23px;
+}
+input{
+    width: 180px;
+    padding: 6px;
+    margin: 10px;
+    border: 0px solid black;
+}
+button{
+    padding: 7px;
+    font-size: 20px;
+    font-family: "Roboto Light";
+    background-color: lightsteelblue;
+    margin: 2%;
+    margin-left: 25%;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
